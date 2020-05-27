@@ -1,1 +1,1 @@
-no payment
+YES payment
